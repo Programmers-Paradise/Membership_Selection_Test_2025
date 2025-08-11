@@ -1,3 +1,11 @@
+#i have used chatgpt and deepseek of understandable 
+#code: both 
+#documentation : chatgpt 
+#the url is : https://chatgpt.com/share/68987777-f5f4-8012-9ebb-780ae27e95ce
+#and https://chat.deepseek.com/a/chat/s/4fb68579-e74b-4290-ac9d-2646f64a1d14
+#access on : August 10,2025
+
+
 # MSTCSY Solution - Suspicious IP Detection System
 
 ## Overview
