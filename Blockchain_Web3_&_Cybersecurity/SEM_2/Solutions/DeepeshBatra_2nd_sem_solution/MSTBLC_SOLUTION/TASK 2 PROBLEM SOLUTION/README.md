@@ -388,10 +388,6 @@ This project is part of the MSTBLC assignment solution. For questions or improve
 3. Submit suggestions or improvements
 4. Follow Solidity best practices
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 **🎓 MSTBLC Problem 2: CertificateIssuer Solution - 100% COMPLETED ✅**
