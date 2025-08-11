@@ -1,4 +1,9 @@
 I HANE USE CHATGPT AND DEEPSEEK FOR UNDERSTANDING THE PROBLEM STATEMENT FOR .SOL I HAVE USE CHATGPT AND DEEPSEEK CODE GENERATED AND FOR DEPLOY CODE  I HAVE USE AI EXTENSION i.e TREA 
+#documentation : chatgpt 
+#the url is : https://chatgpt.com/share/68987777-f5f4-8012-9ebb-780ae27e95ce
+#and https://chat.deepseek.com/a/chat/s/4fb68579-e74b-4290-ac9d-2646f64a1d14
+#access on : August 10,2025
+
 # 🎯 MSTBLC Solution: Pixel Token (PXL) - ERC20 Smart Contract
 
 ## 📋 Assignment Requirements
